@@ -1,0 +1,18 @@
+{
+  "session" : {
+    "secret" : "yourbestsecret"
+  },
+
+  "app": {
+    "port": 8082,
+    "logLevel" : "debug"
+  },
+
+  "mysql": {
+    "host" : "localhost",
+    "user" : "root",
+    "password" : "",
+    "database" : "angular4app"
+  }
+
+}
